@@ -53,9 +53,9 @@ EXECUTION
 Once application is launched and accessed through browser,
 1.    Red Circles on large metro areas shows average house price in that market
 
-2-A.  Enter any address like your current home address for which you want to compare, using
-      Street and Zipcode fields on top left
-      OR
+2-A.  Enter any address like your current home address for which you want to compare, 
+      using Street and Zipcode fields on top left
+       --- OR --- 
 2-B.  Enter Zipcode only and all the input features using other boxes : bedrooms, 
       bathrooms, homesize, property size, year built, Taxyear, Taxvalue and HomeType.
        

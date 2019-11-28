@@ -56,17 +56,17 @@ Once application is launched and accessed through browser,
 2-A.  Enter any address like your current home address for which you want to compare, using
       Street and Zipcode fields on top left
       OR
-2-B.  Enter all the input features using other boxes bedrooms,bathrooms,homesize,
-      propertysize,yearbuilt,Taxyear,Taxvalue and HomeType.
+2-B.  Enter Zipcode only and all the input features using other boxes : bedrooms, 
+      bathrooms, homesize, property size, year built, Taxyear, Taxvalue and HomeType.
        
 3.    Click "Compare Price" button at the bottom 
-      The visualization renders predicted prices based on above input in all markets
+      The visualization renders predicted prices based on above inputs in all markets
 
 
 
 DEMO VIDEO
 ----------
-https://youtu.be/f1X1Cr2RxM8
+https://youtu.be/iVrMOF2hAPI
 
  
  
